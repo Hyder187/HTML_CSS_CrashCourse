@@ -1,0 +1,149 @@
+/* .second-title{
+    color: blueviolet;
+}
+
+.my-section h1{
+    color: firebrick;
+}
+
+#youtube-link{
+    color: #000;
+}
+
+
+* {
+    font-size: 20px;
+}
+
+.my-list + ul{
+    
+    list-style: none;
+}
+
+ul > li{
+    color:fuchsia;
+}
+
+.links li:nth-child(1) {
+    color: green;
+} */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+
+}
+.clear{
+    clear: both;
+}
+
+
+h1{
+    font-size: 2.8rem;
+}
+h2{
+    font-size: 3.6rem;
+    padding: 5rem 0rem;
+}
+
+a{
+    color: honeydew;
+    text-decoration: none;
+    font-size: 2.4rem;
+}
+
+h3{
+    font-size: 1.8rem;
+
+}
+button{
+    font-size: 1.8rem;
+}
+
+nav{
+    background: grey;
+    color: honeydew;
+    padding: 3rem;
+}
+
+nav h1{
+    float: left;
+}
+
+nav ul{
+    float: right;
+    list-style: none;
+}
+
+nav li{
+    float: left;
+    margin: 0rem 3rem;
+}
+
+.hero-section{
+    background-image: url(/img/seamless-pattern-with-cartoon-pizza-hamburger-hot-dog-coffee-french-fries-sandwich-donut-soda-chips-fast-food-drink-vector-illustration_124507-8217.webp);
+    height: 80rem;
+    background-size: cover;
+    text-align: center;
+    color: black;
+    padding-top: 10rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 3px 3px 3px black;
+    
+
+}
+
+.hero-section button{
+    margin-top: 4rem;
+    padding: 1rem 4rem;
+    background: grey;
+    border: none;
+    color: honeydew;
+}
+
+.form-section{
+    text-align: center;
+}
+
+
+form input,form label,form textarea{
+    display: block;
+}
+
+form input, form textarea{
+    margin: 2rem auto;
+
+}
+
+form button{
+    margin-bottom: 2rem;
+}
+/* html,body{
+    height: 100%;
+} */
+
+/* .container{
+    background: cadetblue;
+    width: 80%;
+    height: 80%;
+    margin: auto;
+    position: relative;
+    
+} */
+
+/* .box1,
+.box2,
+.box3{
+    width: 80rem;
+    height: 20rem;
+    border:2px solid black;
+    background: crimson;
+    margin: 1rem;
+  
+} */
+
